@@ -1,0 +1,137 @@
+MAJOR_CODE,MAJOR_TITLE,COLLEGE,DEPARTMENT
+1,Undesignated,Undesignated/Open Option,Undesignated/Open Option
+2,Graduate Undesignated/Open Option,Undesignated/Open Option,Undesignated/Open Option
+3,Fashion: Textiles & Clothing in Business,"Health, Science and Technology",School of Technology
+4,Child & Family Development,Education,Ed Leadership & Human Dev
+5,Nursing,"Health, Science and Technology",Nursing
+6,Electronics Technology,"Health, Science and Technology",School of Technology
+7,Computer-Aided Draft & Design Technology,"Health, Science and Technology",School of Technology
+8,Construction Management,"Health, Science and Technology",School of Technology
+9,Safety Management,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+10,CDM - Emergency Management,Business and Professional Studies,Crisis and Disaster Management
+11,Occupational Education,Education,"Middle, Secondary and Adult Education"
+12,CDM - Environmental Hazards,Business and Professional Studies,Crisis and Disaster Management
+13,CDM - Business Continuity,Business and Professional Studies,Crisis and Disaster Management
+14,Accountancy,Business and Professional Studies,Economics and Finance and the School of Accountancy
+15,Art,"Arts, Humanities, and Social Sciences",Art and Design
+16,Interior Design,"Arts, Humanities, and Social Sciences",Art and Design
+17,Studio Art,"Arts, Humanities, and Social Sciences",Art and Design
+18,Social Studies,"Arts, Humanities, and Social Sciences",History & Anthropology
+19,Computer Information Systems,Business and Professional Studies,Computer Information Systems
+20,Finance,Business and Professional Studies,Economics and Finance and the School of Accountancy
+21,Management,Business and Professional Studies,Management
+22,Marketing,Business and Professional Studies,Marketing and Public Relations
+23,Speech-Language Pathology,Business and Professional Studies,Communication Disorders & Social Work
+24,Dietetics,"Health, Science and Technology",Nutrition and Kinesiology
+25,Hotel & Restaurant Admin,Business and Professional Studies,Management
+26,Occupational Safety & Health,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+27,Agriculture-Business,"Health, Science and Technology",Biology & Agriculture
+28,Earth Science,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+29,Computer Science,"Health, Science and Technology",School of Computer Science and Mathematics
+30,Engineering Technology,"Health, Science and Technology",School of Technology
+31,Elementary Education (1-6),Education,Elementary Education
+32,Elem Ed Early Childhood (B-3),Education,Elementary Education
+33,RN to BS Nursing,"Health, Science and Technology",Nursing
+34,Technology Management (2+2),"Health, Science and Technology",School of Technology
+35,Chemistry (Pre-Medical),"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+36,Forensic Chemistry,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+37,Biochemistry,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+38,English,"Arts, Humanities, and Social Sciences",English & Philosophy
+39,English,"Arts, Humanities, and Social Sciences",English & Philosophy
+40,Graphic Design,"Arts, Humanities, and Social Sciences",Art and Design
+41,Philosophy,"Arts, Humanities, and Social Sciences",English & Philosophy
+42,Technology 2+2,"Health, Science and Technology",School of Technology
+43,Health Studies,"Health, Science and Technology",Nutrition and Kinesiology
+44,Entrepreneurship & Soc Entrprs,Business and Professional Studies,Management
+45,Communication,"Arts, Humanities, and Social Sciences",Communication
+46,Public Relations,Business and Professional Studies,Marketing and Public Relations
+47,Speech Communication & Theatre,"Arts, Humanities, and Social Sciences",Theatre and Dance
+48,Theatre,"Arts, Humanities, and Social Sciences",Theatre and Dance
+49,Theatre,"Arts, Humanities, and Social Sciences",Theatre and Dance
+50,Biology,"Health, Science and Technology",Biology & Agriculture
+51,Medical Laboratory Science,"Health, Science and Technology",Biology & Agriculture
+52,Chemistry,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+53,History,"Arts, Humanities, and Social Sciences",History & Anthropology
+54,History,"Arts, Humanities, and Social Sciences",History & Anthropology
+55,Political Science,"Arts, Humanities, and Social Sciences","Government, International Studies, and Languages"
+56,Political Science,"Arts, Humanities, and Social Sciences","Government, International Studies, and Languages"
+57,Music,"Arts, Humanities, and Social Sciences",Music
+58,Music Education/Instrumental,"Arts, Humanities, and Social Sciences",Music
+59,Music Education/Vocal,"Arts, Humanities, and Social Sciences",Music
+60,Mathematics,"Health, Science and Technology",School of Computer Science and Mathematics
+61,Mathematics,"Health, Science and Technology",School of Computer Science and Mathematics
+62,Chemistry (Pre-Pharmacy),"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+63,Music,"Arts, Humanities, and Social Sciences",Music
+64,Chemistry,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+65,Physics,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+66,Biology,"Health, Science and Technology",Biology & Agriculture
+67,Economics,Business and Professional Studies,Economics and Finance and the School of Accountancy
+68,Finance Funct,Business and Professional Studies,Economics and Finance and the School of Accountancy
+69,Professional Pilot,Business and Professional Studies,Aviation
+70,Aviation Maint Management 2+2,Business and Professional Studies,Aviation
+71,International Studies,"Arts, Humanities, and Social Sciences","Government, International Studies, and Languages"
+72,Career & Technology Teacher Ed,Education,"Middle, Secondary and Adult Education"
+73,Technology (UG Cert),"Health, Science and Technology",School of Technology
+74,Design & Drafting Technology,"Health, Science and Technology",School of Technology
+75,Aviation Management,Business and Professional Studies,Aviation
+76,Modern Languages,"Arts, Humanities, and Social Sciences","Government, International Studies, and Languages"
+77,Actuarial Science & Statistics,"Health, Science and Technology",School of Computer Science and Mathematics
+78,Musical Theatre,"Arts, Humanities, and Social Sciences",Theatre and Dance
+79,Professional Photography,"Health, Science and Technology",School of Technology
+80,Innovative Technologies,"Health, Science and Technology",School of Technology
+81,Coop Eng 2-2 transfer agreemnt,"Health, Science and Technology",School of Technology
+82,Emergency Management (UG Cert),Business and Professional Studies,Crisis and Disaster Management
+83,International Business,Business and Professional Studies,Economics and Finance and the School of Accountancy
+84,Graphic Technologies,"Health, Science and Technology",School of Technology
+85,Communication Studies,"Arts, Humanities, and Social Sciences",Communication
+86,Digital Media Production,"Arts, Humanities, and Social Sciences",Communication
+87,Radiologic Technology,"Health, Science and Technology",Biology & Agriculture
+88,Economics,Business and Professional Studies,Economics and Finance and the School of Accountancy
+89,Sport Management,"Health, Science and Technology",Nutrition and Kinesiology
+90,Hospitality Management,Business and Professional Studies,Management
+91,Criminal Justice,Business and Professional Studies,Criminal Justice
+92,Accountancy BSBA/MS,Business and Professional Studies,Economics and Finance and the School of Accountancy
+93,Anthropology,"Arts, Humanities, and Social Sciences",History & Anthropology
+94,Waiver Program,Undesignated/Open Option,Undesignated/Open Option
+95,Events Marketing & Management,Business and Professional Studies,Marketing and Public Relations
+96,Crisis & Disaster Management,Business and Professional Studies,Crisis and Disaster Management
+97,Medical Laboratory Science,"Health, Science and Technology",Biology & Agriculture
+98,Secondary School Administration,Education,"Middle, Secondary and Adult Education"
+99,Psychology,"Health, Science and Technology",Psychological Science
+100,Psychology,"Health, Science and Technology",Psychological Science
+101,Sociology,"Arts, Humanities, and Social Sciences","Sociology, Gerontology and Cross-Disciplinary Studies"
+102,Sociology,"Arts, Humanities, and Social Sciences","Sociology, Gerontology and Cross-Disciplinary Studies"
+103,Special Education,Education,Ed Leadership & Human Dev
+104,Physical Education,"Health, Science and Technology",Nutrition and Kinesiology
+105,Automotive Technology Management,"Health, Science and Technology",School of Technology
+106,Middle School-Jr High School,Education,"Middle, Secondary and Adult Education"
+107,Criminal Justice,Business and Professional Studies,Criminal Justice
+108,Social Work,Business and Professional Studies,Communication Disorders & Social Work
+109,Athletic Training,"Health, Science and Technology",Nutrition and Kinesiology
+110,Career and Technical Education (UG Cert),Education,"Middle, Secondary and Adult Education"
+111,Occupational Safety,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+112,Systems Engineering Technology,"Health, Science and Technology",School of Technology
+113,CDM - Emergency Services Management,Business and Professional Studies,Crisis and Disaster Management
+114,Open Option,Undesignated/Open Option,Undesignated/Open Option
+115,Agricultural Science,"Health, Science and Technology",Biology & Agriculture
+116,Cybersecurity,"Health, Science and Technology",School of Computer Science and Mathematics
+117,Networking Technology,"Health, Science and Technology",School of Technology
+118,Technology Management,"Health, Science and Technology",School of Technology
+119,Technology Management (transfer),"Health, Science and Technology",School of Technology
+120,Central MO Police Academy (UG Cert),Business and Professional Studies,Crisis and Disaster Management
+121,General Studies,Provost,General Studies
+122,General Studies,Provost,General Studies
+123,Ind Major: Religious Studies,"Arts, Humanities, and Social Sciences","Sociology, Gerontology and Cross-Disciplinary Studies"
+124,Ind Major: Creative Writing,"Arts, Humanities, and Social Sciences",English & Philosophy
+125,Ind Major: Anthropology,"Arts, Humanities, and Social Sciences",History & Anthropology
+126,Ind Major: Working w/Acive Children,Education,Ed Leadership & Human Dev
+127,Ind Major: Office Management,Education,"Middle, Secondary and Adult Education"
+128,Ind Major: Physics,"Health, Science and Technology","Environmental, Physical and Applied Sciences"
+129,Ind Major: Multimedia Technologies,"Health, Science and Technology",School of Technology
+130,Ind Major: Creative Studies,"Arts, Humanities, and Social Sciences",Art and Design
+131,Ind Major: Music Composition,"Arts, Humanities, and Social Sciences",Music
+132,Ind Major: Youth in Human Services,Education,Ed Leadership & Human Dev
+133,Ind Major: Early Chdhood Educ/Develop,Education,Elementary Education
+134,Ind Major: Interdis Child & Adol Stds,Education,Elementary Education
+135,Ind Major: Aviation Maint Tech Mgt,Business and Professional Studies,Aviation
+136,Ind Major: Business Psychology,"Health, Science and Technology",Psychological Science
