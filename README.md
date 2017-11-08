@@ -6,9 +6,9 @@ This repository hosts materials for the MidAIR 2017 Workshop "R Programming for 
 
 [Data Structures Exercise](http://rpubs.com/bpattiz/Data_Structures_Exercise)
 
-[Function Examples]()
+[Function Examples](http://rpubs.com/bpattiz/Function_Examples)
 
-[Functions Exercise]()
+[Functions Exercise](http://rpubs.com/bpattiz/Functions_Exercise)
 
 ## Data Management
 [DBI Example]()
