@@ -10,6 +10,17 @@ This repository hosts materials for the MidAIR 2017 Workshop "R Programming for 
 
 [Functions Exercise](http://rpubs.com/bpattiz/Functions_Exercise)
 
+[String Examples](http://rpubs.com/bpattiz/String_Examples)
+
 ## Data Management
 [DBI Example]()
 
+## Data Manipulation
+[Examples](http://rpubs.com/bpattiz/Data_Manipulation_Examples)
+
+[Exercise](http://rpubs.com/bpattiz/Data_Munging_Exercise)
+
+## Data Visualization
+[Examples](http://rpubs.com/bpattiz/Data_Visualization_Examples)
+
+[Exercise](http://rpubs.com/bpattiz/Visualization_Exercise)
