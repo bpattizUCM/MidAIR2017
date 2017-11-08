@@ -15,7 +15,7 @@ This repository hosts materials for the MidAIR 2017 Workshop "R Programming for 
 [String Examples](http://rpubs.com/bpattiz/String_Examples)
 
 ## Data Management
-[DBI Example]()
+[DBI Example](http://rpubs.com/bpattiz/DBI_Example)
 
 ## Data Manipulation
 [Examples](http://rpubs.com/bpattiz/Data_Manipulation_Examples)
