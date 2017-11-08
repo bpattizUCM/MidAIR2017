@@ -1,4 +1,4 @@
-# MidAIR2017
+# MidAIR 2017
 This repository hosts materials for the MidAIR 2017 Workshop "R Programming for Institutional Research"
 
 [R Programming for Institutional Research Slides](http://rpubs.com/bpattiz/R_Workshop_Presentation)
