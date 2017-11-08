@@ -8,9 +8,13 @@ This repository hosts materials for the MidAIR 2017 Workshop "R Programming for 
 
 [Data Structures Exercise](http://rpubs.com/bpattiz/Data_Structures_Exercise)
 
+[Exercise Answers](http://rpubs.com/bpattiz/Data_Structures_Answers)
+
 [Function Examples](http://rpubs.com/bpattiz/Function_Examples)
 
 [Functions Exercise](http://rpubs.com/bpattiz/Functions_Exercise)
+
+[Exercise Answers](http://rpubs.com/bpattiz/Functions_Exercise_Answers)
 
 [String Examples](http://rpubs.com/bpattiz/String_Examples)
 
@@ -22,7 +26,11 @@ This repository hosts materials for the MidAIR 2017 Workshop "R Programming for 
 
 [Exercise](http://rpubs.com/bpattiz/Data_Munging_Exercise)
 
+[Excercise Answers](http://rpubs.com/bpattiz/Data_Munging_Answers)
+
 ## Data Visualization
 [Examples](http://rpubs.com/bpattiz/Data_Visualization_Examples)
 
 [Exercise](http://rpubs.com/bpattiz/Visualization_Exercise)
+
+[Exercise Answers](http://rpubs.com/bpattiz/Data_Visualization_Answers)
