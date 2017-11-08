@@ -2,9 +2,13 @@
 This repository hosts materials for the MidAIR 2017 Workshop "R Programming for Institutional Research"
 
 ## Data Structures
-[Examples](http://rpubs.com/bpattiz/Data_Structures_Examples)
+[Data Structures Examples](http://rpubs.com/bpattiz/Data_Structures_Examples)
 
-[Exercise](http://rpubs.com/bpattiz/Data_Structures_Exercise)
+[Data Structures Exercise](http://rpubs.com/bpattiz/Data_Structures_Exercise)
+
+[Function Examples]()
+
+[Functions Exercise]()
 
 ## Data Management
 [DBI Example]()
