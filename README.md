@@ -1,6 +1,8 @@
 # MidAIR2017
 This repository hosts materials for the MidAIR 2017 Workshop "R Programming for Institutional Research"
 
+[R Programming for Institutional Research Slides](http://rpubs.com/bpattiz/R_Workshop_Presentation)
+
 ## Data Structures
 [Data Structures Examples](http://rpubs.com/bpattiz/Data_Structures_Examples)
 
